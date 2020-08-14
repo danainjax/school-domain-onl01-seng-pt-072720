@@ -25,3 +25,4 @@ def sort
     names.sort!
   end
 end
+end
